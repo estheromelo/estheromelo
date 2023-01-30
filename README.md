@@ -1,5 +1,7 @@
-## 👋 Hi there 👋
-My name is Esther Melo!
+## 👋 Olá 👋 
+## Me chamo Esther Melo!
+
+
 
  <div>
    <a href="https://github.com/estheromelo">
